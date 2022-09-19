@@ -3,19 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "doconv"]
-	path = doconv
-	url = https://github.com/ardata-fr/doconv
-	shallow = true
-	registered = true
 [submodule "equatags"]
 	path = equatags
 	url = https://github.com/ardata-fr/equatags
-	shallow = true
-	registered = true
-[submodule "locatexec"]
-	path = locatexec
-	url = https://github.com/ardata-fr/locatexec
 	shallow = true
 	registered = true
 [submodule "mschart"]
