@@ -1,18 +1,18 @@
 [
   {
-    "package": "doconv",
-    "oncran": true
-  },
-  {
     "package": "equatags",
     "oncran": true
   },
   {
-    "package": "locatexec",
+    "package": "mschart",
     "oncran": true
   },
   {
-    "package": "mschart",
+    "package": "doconv",
+    "oncran": true
+  },
+  {
+    "package": "locatexec",
     "oncran": true
   }
 ]
