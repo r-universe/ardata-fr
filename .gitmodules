@@ -14,3 +14,6 @@
 [submodule "mschart"]
 	path = mschart
 	url = https://github.com/ardata-fr/mschart
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/ardata-fr/workspace
