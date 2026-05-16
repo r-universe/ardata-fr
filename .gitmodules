@@ -17,10 +17,6 @@
 [submodule "munch"]
 	path = munch
 	url = https://github.com/ardata-fr/munch
-[submodule "officer"]
-	path = officer
-	url = https://github.com/davidgohel/officer
-	registered = false
 [submodule "workspace"]
 	path = workspace
 	url = https://github.com/ardata-fr/workspace
