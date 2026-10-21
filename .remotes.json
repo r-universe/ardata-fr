@@ -1,0 +1,8 @@
+[
+  {
+    "package": "locatexec",
+    "url": "https://github.com/ardata-fr/locatexec",
+    "via": ["doconv"],
+    "from": "doconv"
+  }
+]
