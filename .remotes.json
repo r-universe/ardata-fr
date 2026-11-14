@@ -8,12 +8,6 @@
   {
     "package": "gdtools",
     "url": "https://github.com/davidgohel/gdtools",
-    "via": ["equatags"],
-    "from": "equatags"
-  },
-  {
-    "package": "gdtools",
-    "url": "https://github.com/davidgohel/gdtools",
     "via": ["munch"],
     "from": "munch"
   }
