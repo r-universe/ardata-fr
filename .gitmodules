@@ -8,14 +8,6 @@
 [submodule "equatags"]
 	path = equatags
 	url = https://github.com/ardata-fr/equatags
-[submodule "flextable"]
-	path = flextable
-	url = https://github.com/davidgohel/flextable
-	registered = false
-[submodule "gdtools"]
-	path = gdtools
-	url = https://github.com/davidgohel/gdtools
-	registered = false
 [submodule "locatexec"]
 	path = locatexec
 	url = https://github.com/ardata-fr/locatexec
